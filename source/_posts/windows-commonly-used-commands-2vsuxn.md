@@ -1,18 +1,13 @@
 ---
 title: windows常用命令
 date: '2024-12-22 13:49:04'
-updated: '2024-12-22 18:13:52'
-tags:
-  - windows
-  - 命令行
+updated: '2024-12-22 18:34:34'
 permalink: /post/windows-commonly-used-commands-2vsuxn.html
 comments: true
 toc: true
 ---
 
 
-
-# windows常用命令
 
 * 更换winget源
 
