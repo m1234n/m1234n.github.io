@@ -1,7 +1,7 @@
 ---
 title: windows常用命令
 date: '2024-12-22 13:49:04'
-updated: '2024-12-22 18:34:34'
+updated: '2025-01-01 00:21:46'
 tags:
   - windows
   - 命令行
@@ -10,11 +10,11 @@ comments: true
 toc: true
 ---
 
-
+# windows常用命令
 
 * 更换winget源
 
-  ```powershell
+  ```bash
   #替换源USTC源
   winget source remove winget
   winget source add winget https://mirrors.ustc.edu.cn/winget-source
@@ -27,7 +27,7 @@ toc: true
 
 * 更换npm镜像源
 
-  ```powershell
+  ```bash
   # 淘宝镜像源
   npm config set registry https://registry.npmmirror.com
   npm config get registry
